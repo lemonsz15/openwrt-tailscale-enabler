@@ -1,6 +1,6 @@
 #!/bin/sh
 
-version='1.8.0_amd64'
+version='1.8.0_amd64'1
 
 if [ ! -f /tmp/tailscale ]; then
     echo "Downloading Tailscale ${version} .."
